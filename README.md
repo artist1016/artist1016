@@ -1,6 +1,6 @@
 # 👋 你好，我是Dai Yi
 
-🎓 北京交通大学 · 计算机CS
+🎓 Beijing Jiaotong University · CS
 💻 Tech AI HCI Idea   
 🏠 内蒙古赤峰
 
