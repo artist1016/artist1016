@@ -34,7 +34,7 @@
 - **技术**：黑盒测试, Bug追踪, 文档规范
 
 ### 🎨 个人作品集网站 Demo
-- **简介**：使用 Next.js + Tailwind CSS 搭建的个人展示页，包含技术栈列表、项目亮点等。已部署至线上。
+- **简介**：使用 Next.js + Tailwind CSS 搭建的个人展示页，学习搭建中，预计包含技术栈列表、项目亮点等。已部署至线上。
 - **技术栈**：Next.js, React, TypeScript, Tailwind CSS, Plotly.js
 - **线上预览**：[https://wondrous-pudding-295059.netlify.app/]  (PC Web访问)
 - **代码仓库**：[my-portfolio](https://github.com/artist1016/my-portfolio)
