@@ -19,6 +19,12 @@
 
 ## 📁 项目&经历
 
+### 🤖 RAG 智能文档问答助手
+- **描述**：基于智谱 GLM-4-Flash 免费模型和 Streamlit 构建的轻量级 RAG 应用。支持上传 PDF/Word 文档，通过语义检索与大模型生成相结合的方式，实现基于文档内容的精准问答。独立完成文本分块、Embedding 调用、余弦相似度检索及前端界面开发。
+- **技术**：Streamlit, 智谱 AI (glm-4-flash, embedding-2), Python, requests, pypdf, python-docx
+- **亮点**：纯 Python 实现，无向量数据库依赖；支持相似度展示与原文引用；已部署至 Streamlit Cloud 可在线体验
+- **链接**：[GitHub 仓库](https://github.com/artist1016/rag-demo) | [在线 Demo](https://rag-demo-gf3acwjuz3q7awqhtj7rvq.streamlit.app/)
+
 ### 🎓 毕业设计：基于知识图谱的应急事件处置问答系统
 - **描述**：独立完成应急事件数据的清洗与知识图谱构建，基于Flask开发后端API，实现与Neo4j的交互，利用AC算法进行实体识别，模板匹配问答。
 - **技术**：Flask, Neo4j, Python, AC算法
