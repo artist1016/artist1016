@@ -25,6 +25,13 @@
 - **亮点**：纯 Python 实现，无向量数据库依赖；支持相似度展示与原文引用；已部署至 Streamlit Cloud 可在线体验
 - **链接**：[GitHub 仓库](https://github.com/artist1016/rag-demo) | [在线 Demo](https://rag-demo-gf3acwjuz3q7awqhtj7rvq.streamlit.app/)
 
+### 🧠 AI 造梦师：为社交平台打造人格化的AI角色
+-  **AI 角色塑造**: 编写结构化的 **System Prompt**，为核心角色“林知意”定义独特的人格。
+-  **平台与模型**: 熟练运用 **扣子(Coze) AI Agent 开发平台**，并集成了**豆包**等大语言模型进行开发和调优。
+-  **视觉设计**: 使用 **Midjourney** 等AI绘画工具，为角色生成风格统一的视觉形象。
+-  **工程化思维**: 引入“人格工程学”结构，为AI设计“核心本能”和“欲望引擎”，使其行为逻辑更稳定。
+-  **展示**：[https://github.com/artist1016/Dreamer-Lin]
+
 ### 🎓 毕业设计：基于知识图谱的应急事件处置问答系统
 - **描述**：独立完成应急事件数据的清洗与知识图谱构建，基于Flask开发后端API，实现与Neo4j的交互，利用AC算法进行实体识别，模板匹配问答。
 - **技术**：Flask, Neo4j, Python, AC算法
