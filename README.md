@@ -1,8 +1,8 @@
-# 👋 你好，我是Dai Yi
+# 👋 你好，我是Alex
 
 🎓 Beijing Jiaotong University · CS
 💻 AI🧠 HCI🤖 Idea💡 Biking🚴 Reading📚 Cooking🥞  
-🏠 内蒙古赤峰
+🏠 Online
 
 ---
 
