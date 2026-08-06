@@ -22,8 +22,8 @@
 ### 🦩 Flamatch · AI 简历 × 岗位匹配分析
 - **描述：** 基于 Streamlit + Plotly 的本地优先简历匹配分析工具。上传/粘贴「目标 JD」与「你的简历」，实时对比匹配度、技能缺口与能力雷达图；内置岗位推荐页（免费公开 API），按匹配度排序并一键投递。数据本地 SQLite 持久化，可选 Supabase 云端按用户隔离同步。
 - **技术：** Streamlit, Plotly, Python；Supabase（云端 Postgres + RLS）与本地 SQLite 双后端；pypdf / python-docx 文档解析；Supabase Auth 邮箱登录。
-- **亮点：**本地优先、隐私友好，云端不可用时自动回退本地，自研 SPA 导航，彻底解决 Streamlit 原生多页"新开标签页"问题，多记录文档管理：简历/JD 历史版本可随时查看、设为当前，报告可导出 JSON / CSV / Markdown；完整中英文 i18n + 多主题 + 深色模式
-**链接：** [GitHub 仓库](https://github.com/artist1016/JD-Analyzer)
+- **亮点：** 本地优先、隐私友好，云端不可用时自动回退本地，自研 SPA 导航，彻底解决 Streamlit 原生多页"新开标签页"问题，多记录文档管理：简历/JD 历史版本可随时查看、设为当前，报告可导出 JSON / CSV / Markdown；完整中英文 i18n + 多主题 + 深色模式
+- **链接：** [GitHub 仓库](https://github.com/artist1016/JD-Analyzer)
 
 
 ### 🤖 RAG 智能文档问答助手
