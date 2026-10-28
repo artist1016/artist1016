@@ -5,19 +5,43 @@
 🏠 Online
 
 ---
+- **飞书** ：https://hcnazkqtqx69.feishu.cn/wiki/M4Amwp68Hi8E6vkwVlAcgBUmnFf?from=from_copylink
 
 ## 🔧 技术栈
 
-- **语言**：Python, C++, JavaScript (TypeScript)
-- **Web后端**：Flask, FastAPI 等 (学习中)
-- **Web前端**：React / Next.js 等 (基础)
-- **数据库**：MySQL, SQLite, Neo4j
-- **工具**：Git, Linux基础命令, Docker (了解)
+- **能力**：AI全栈 FDE部署
 - **其他**：人机交互，图数据库, 用户体验，知识图谱, 算法设计
 
 ---
 
 ## 📁 项目&经历
+
+### 🎮 BoomTap 游戏化微循环原型 (For Minds / Animoca)
+
+*   **描述**：基于 HCI 理论与行为心理学设计的 5 秒核心微循环 H5 游戏。包含收缩环判定、多邻国级 Q 弹特效反馈及完整的数值难度曲线。
+*   **技术**：Vanilla HTML/CSS/JS、Web Audio API、CSS Animations、Vibe-coding (AI 辅助开发)
+*   **亮点**：纯前端单文件实现，零外部依赖，离线可跑；预埋 17 个全链路行为埋点 (Console 输出)，支持漏斗分析与 AB 测试；优化 60FPS 手感，具备防挫败机制。
+*   **链接**：[GitHub 仓库](https://github.com/artist1016/minds-gamified-prototype) | [在线试玩 Demo](https://minds-gamified-prototype.vercel.app)
+
+---
+
+### 🧠 AI 心理教练平台 (PKU老师的科研团队)
+
+*   **描述**：面向行为科学研究的 AI 心理教练 Web 平台。支持 AI 对话、用户首用体验引导，并在后台自动记录多维度的用户行为数据（对话内容、设备信息、交互时长），支持一键导出 Excel。
+*   **技术**：Node.js、SQLite、智谱 GLM-4-Flash、Caddy、阿里云、PM2
+*   **亮点**：全栈 FDE 独立交付，完成从云服务器部署、HTTPS 配置到数据闭环搭建；内置 Harness 风控机制（设置 Human-in-the-loop 防止 AI 幻觉）；采用 PM2 实现平滑热更新，保障数据安全。
+*   **链接**：[在线体验 (前台)](https://coach.rfastgo.com/c/coach) | [系统交付与维护指南 (飞书)](https://hcnazkqtqx69.feishu.cn/wiki/M4Amwp68Hi8E6vkwVlAcgBUmnFf)
+
+---
+
+### 🌐 Web3 研报分析 AI Agent (Agentplace)
+
+*   **描述**：基于 Agentplace 平台通过 Vibe-coding 搭建并发布的垂直领域 AI Agent。擅长提炼硬核英文研报，并输出结构化的四段式分析（关键事件、技术数据、核心风险、市场反应）。
+*   **技术**：Agentplace、Prompt Engineering、LLM 边界约束
+*   **亮点**：内置企业级数值风控护栏。当用户提问原文未提及的金融数据时，Agent 会触发 Harness 机制，拒绝瞎编并输出 `⚠️ Data not found. Requires human verification.`，确保数据安全底线。
+*   **链接**：[在线体验 Demo](https://6oloyimsflps.run.agentplace.io) 
+
+---
 
 ### 🦩 Flamatch · AI 简历 × 岗位匹配分析
 - **描述：** 基于 Streamlit + Plotly 的本地优先简历匹配分析工具。上传/粘贴「目标 JD」与「你的简历」，实时对比匹配度、技能缺口与能力雷达图；内置岗位推荐页（免费公开 API），按匹配度排序并一键投递。数据本地 SQLite 持久化，可选 Supabase 云端按用户隔离同步。
@@ -32,32 +56,19 @@
 - **亮点**：纯 Python 实现，无向量数据库依赖；支持相似度展示与原文引用；已部署至 Streamlit Cloud 可在线体验
 - **链接**：[GitHub 仓库](https://github.com/artist1016/rag-demo) | [在线 Demo](https://rag-demo-gf3acwjuz3q7awqhtj7rvq.streamlit.app/)
 
-### 🧠 AI 造梦师：为社交平台打造人格化的AI角色
--  **AI 角色塑造**: 编写结构化的 **System Prompt**，为核心角色“林知意”定义独特的人格。
--  **平台与模型**: 熟练运用 **扣子(Coze) AI Agent 开发平台**，并集成了**豆包**等大语言模型进行开发和调优。
--  **视觉设计**: 使用 **Midjourney** 等AI绘画工具，为角色生成风格统一的视觉形象。
--  **工程化思维**: 引入“人格工程学”结构，为AI设计“核心本能”和“欲望引擎”，使其行为逻辑更稳定。
--  **展示**：[https://github.com/artist1016/Dreamer-Lin]
+---
 
 ### 🎓 毕业设计：基于知识图谱的应急事件处置问答系统
 - **描述**：独立完成应急事件数据的清洗与知识图谱构建，基于Flask开发后端API，实现与Neo4j的交互，利用AC算法进行实体识别，模板匹配问答。
 - **技术**：Flask, Neo4j, Python, AC算法
 - **代码**：[https://github.com/artist1016/QAsystem-knowledge-graph.git]
 
+---
+
 ### 🤖 大学生创新创业项目：基于YOLOv8的运动记录小车
 - **描述**：参与YOLOv8目标检测算法在Jetson Nano上的部署，完成运动控制模块与数据采集的代码整合。
 - **技术**：Python, YOLOv8, 嵌入式, 硬件调试
 - **展示**：[https://cs.bjtu.edu.cn/bkstd/bkszs/dxal/yxdc/202315440.htm]
-
-### 🧪 北京东方坦达科技有限公司 测试岗（小学期）
-- **工作内容**：参与系统功能测试，编写测试用例，协助开发定位Bug，熟悉项目迭代流程。
-- **技术**：黑盒测试, Bug追踪, 文档规范
-
-### 🎨 个人作品集网站 Demo
-- **简介**：使用 Next.js + Tailwind CSS 搭建的个人展示页，学习搭建中，预计包含技术栈列表、项目亮点等。已部署至线上。
-- **技术栈**：Next.js, React, TypeScript, Tailwind CSS, Plotly.js
-- **线上预览**：[https://2026myportfolio.netlify.app/]  (PC Web访问)
-- **代码仓库**：[my-portfolio](https://github.com/artist1016/my-portfolio)
 
 ---
 
