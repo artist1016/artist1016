@@ -16,7 +16,7 @@
 
 ## 📁 项目&经历
 
-### 🎮 BoomTap 游戏化微循环原型 (For Minds / Animoca)
+### 🎮 BoomTap 游戏化微循环原型
 
 *   **描述**：基于 HCI 理论与行为心理学设计的 5 秒核心微循环 H5 游戏。包含收缩环判定、多邻国级 Q 弹特效反馈及完整的数值难度曲线。
 *   **技术**：Vanilla HTML/CSS/JS、Web Audio API、CSS Animations、Vibe-coding (AI 辅助开发)
@@ -25,7 +25,7 @@
 
 ---
 
-### 🧠 AI 心理教练平台 (PKU老师的科研团队)
+### 🧠 AI 心理教练平台 (PKU心理博士的科研团队)
 
 *   **描述**：面向行为科学研究的 AI 心理教练 Web 平台。支持 AI 对话、用户首用体验引导，并在后台自动记录多维度的用户行为数据（对话内容、设备信息、交互时长），支持一键导出 Excel。
 *   **技术**：Node.js、SQLite、智谱 GLM-4-Flash、Caddy、阿里云、PM2
