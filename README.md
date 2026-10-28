@@ -34,7 +34,7 @@
 
 ---
 
-### 🌐 Web3 研报分析 AI Agent (Agentplace)
+### 🌐 Web3 研报分析 AI Agent
 
 *   **描述**：基于 Agentplace 平台通过 Vibe-coding 搭建并发布的垂直领域 AI Agent。擅长提炼硬核英文研报，并输出结构化的四段式分析（关键事件、技术数据、核心风险、市场反应）。
 *   **技术**：Agentplace、Prompt Engineering、LLM 边界约束
