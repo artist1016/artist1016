@@ -21,7 +21,7 @@
 *   **描述**：基于 HCI 理论与行为心理学设计的 5 秒核心微循环 H5 游戏。包含收缩环判定、多邻国级 Q 弹特效反馈及完整的数值难度曲线。
 *   **技术**：Vanilla HTML/CSS/JS、Web Audio API、CSS Animations、Vibe-coding (AI 辅助开发)
 *   **亮点**：纯前端单文件实现，零外部依赖，离线可跑；预埋 17 个全链路行为埋点 (Console 输出)，支持漏斗分析与 AB 测试；优化 60FPS 手感，具备防挫败机制。
-*   **链接**：[GitHub 仓库](https://github.com/artist1016/minds-gamified-prototype) | [在线试玩 Demo](https://minds-gamified-prototype.vercel.app)
+*   **链接**：[GitHub 仓库](https://github.com/artist1016/minds-gamified-prototype) | [测测你的手速](https://3iyn7j.kicp.fun/)
 
 ---
 
