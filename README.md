@@ -30,7 +30,7 @@
 *   **描述**：面向行为科学研究的 AI 心理教练 Web 平台。支持 AI 对话、用户首用体验引导，并在后台自动记录多维度的用户行为数据（对话内容、设备信息、交互时长），支持一键导出 Excel。
 *   **技术**：Node.js、SQLite、智谱 GLM-4-Flash、Caddy、阿里云、PM2
 *   **亮点**：全栈 FDE 独立交付，完成从云服务器部署、HTTPS 配置到数据闭环搭建；内置 Harness 风控机制（设置 Human-in-the-loop 防止 AI 幻觉）；采用 PM2 实现平滑热更新，保障数据安全。
-*   **链接**：[在线体验 (前台)](https://coach.rfastgo.com/c/coach) | [系统交付与维护指南 (飞书)](https://hcnazkqtqx69.feishu.cn/wiki/M4Amwp68Hi8E6vkwVlAcgBUmnFf)
+*   **链接**：[Demo体验](https://coach.rfastgo.com/) | [系统交付与维护指南 (飞书)](https://hcnazkqtqx69.feishu.cn/wiki/M4Amwp68Hi8E6vkwVlAcgBUmnFf)
 
 ---
 
