@@ -1,16 +1,17 @@
 # 👋 你好，我是Alex
 
-🎓 Beijing Jiaotong University · CS
-💻 AI🧠 HCI🤖 Idea💡 Biking🚴 Reading📚 Cooking🥞  
-🏠 Online
+🏠 AI-Native Fullstack Builder | FDE Mindset | Building the Agentic Era | HCI & Web3 | Architecting "The Door Handle Moment"
+BJTU CS | 📍 Remote / Flexible
 
 ---
 - **飞书** ：https://hcnazkqtqx69.feishu.cn/wiki/M4Amwp68Hi8E6vkwVlAcgBUmnFf?from=from_copylink
 
-## 🔧 技术栈
+## 🔧 核心技能栈(Technical Skills)
 
-- **能力**：AI全栈 FDE部署
-- **其他**：人机交互，图数据库, 用户体验，知识图谱, 算法设计
+- AI & Agents (AI与智能体): LLM API Integration (OpenAI/GLM), AI Agent Workflows, RAG, LLM Evaluation, Prompt Engineering.
+- HCI & Design (人机交互与设计): Human-in-the-loop (HITL), Harness Guardrails, Interactive Prototyping, User Experience (UX).
+- Fullstack & Data (全栈与数据): Node.js, Python, SQL (SQLite/Supabase), REST APIs, Data Pipeline Design, Data Cleaning & Deduplication.
+- Infrastructure & Automation (基建与自动化): Cloud Deployment (Ubuntu/Caddy/PM2), SSE Streaming, Git/GitHub, n8n/Make.
 
 ---
 
@@ -75,7 +76,6 @@
 ## 📫 联系我
 
 - **邮箱**：1137251662@qq.com
-- **手机**：19847431120
 
 ---
 
