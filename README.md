@@ -26,7 +26,7 @@ BJTU CS | 📍 Remote / Flexible
 
 ---
 
-### 🧠 AI 心理教练平台 (PKU心理博士的科研团队，MVP迭代中)
+### 🧠 AI 心理教练平台 (PKU博士的科研团队，MVP迭代中)
 
 *   **描述**：面向行为科学研究的 AI 心理教练 Web 平台。支持 AI 对话、用户首用体验引导，并在后台自动记录多维度的用户行为数据（对话内容、设备信息、交互时长），支持一键导出 Excel。
 *   **技术**：Node.js、SQLite、智谱 GLM-4-Flash、Caddy、阿里云、PM2
