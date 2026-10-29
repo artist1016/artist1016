@@ -1,7 +1,6 @@
 # 👋 你好，我是Alex
 
-🏠 AI-Native Fullstack Builder | FDE Mindset | Building the Agentic Era | HCI & Web3 | Architecting "The Door Handle Moment"
-BJTU CS | 📍 Remote / Flexible
+🏠 AI-Native Fullstack Builder | FDE Mindset | Building the Agentic Era | HCI & Web3 | Architecting "The Door Handle Moment" | BJTU CS | 📍 Remote / Flexible
 
 ---
 - **飞书** ：https://hcnazkqtqx69.feishu.cn/wiki/M4Amwp68Hi8E6vkwVlAcgBUmnFf?from=from_copylink
